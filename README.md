@@ -29,7 +29,7 @@ terraform-project/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/aamir017/terraform-ec2-setup.git
+git clone https://github.com/aamir017/Terraform-project.git
 cd terraform-ec2-setup
 ```
 2. **Initialize Terraform**
